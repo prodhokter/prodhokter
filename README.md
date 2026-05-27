@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗ ██████╗  ██████╗ ██████╗ ██╗  ██╗ ██████╗ ██╗  ██╗████████╗███████╗██████╗
-██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██║  ██║██╔═══██╗██║ ██╔╝╚══██╔══╝██╔════╝██╔══██╗
-██████╔╝██████╔╝██║   ██║██║  ██║███████║██║   ██║█████╔╝    ██║   █████╗  ██████╔╝
-██╔═══╝ ██╔══██╗██║   ██║██║  ██║██╔══██║██║   ██║██╔═██╗    ██║   ██╔══╝  ██╔══██╗
-██║     ██║  ██║╚██████╔╝██████╔╝██║  ██║╚██████╔╝██║  ██╗   ██║   ███████╗██║  ██║
-╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+ ___________ _   _ _   _   _   _   ___  ______ ___________ 
+|_   _| ___ \ \ | | | | | | | | | / _ \ | ___ \_   _| ___ \
+  | | | |_/ /  \| | | | | | |_| |/ /_\ \| |_/ / | | | |_/ /
+  | | | ___ \ . ` | | | | |  _  ||  _  || ___ \ | | | ___ \
+ _| |_| |_/ / |\  | |_| | | | | || | | || |_/ /_| |_| |_/ /
+ \___/\____/\_| \_/\___/  \_| |_/\_| |_/\____/ \___/\____/ 
 ```
 
 <a href="https://git.io/typing-svg">
@@ -88,60 +88,19 @@ const prodhokter = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=prodhokter&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&custom_title=Contribution+Overview" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodhokter&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prodhokter&theme=github_dark" height="165em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prodhokter&theme=github_dark" height="165em"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prodhokter&theme=github_dark&utcOffset=7" height="165em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prodhokter&theme=github_dark" height="165em"/>
 
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prodhokter&theme=github-dark-blue&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## `$ snake --generate contributions`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/prodhokter/prodhokter/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/prodhokter/prodhokter/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/prodhokter/prodhokter/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<details>
-<summary><code>⚙️ Setup snake animation (.github/workflows/snake.yml)</code></summary>
-
-```yaml
-name: Generate Contribution Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: prodhokter
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
