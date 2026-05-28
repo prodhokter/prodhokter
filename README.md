@@ -186,6 +186,88 @@ const ibnuhabib: Developer = {
 
 ---
 
+<!-- ===== PROJECT SHOWCASE ===== -->
+
+## `$ ls -la ~/projects/indonesia/`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<br/>
+
+<a href="https://github.com/prodhokter/api-datasets-indonesia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=api-datasets-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=00d9ff&description_lines_count=2" width="100%" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/prodhokter/dataset-sekolah-indonesia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=dataset-sekolah-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=00d9ff&description_lines_count=2" width="100%" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/prodhokter/dataset-wilayah-indonesia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=dataset-wilayah-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=00d9ff&description_lines_count=2" width="100%" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/prodhokter/dataset-kbbi-indonesia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=dataset-kbbi-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=00d9ff&description_lines_count=2" width="100%" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+<a href="https://github.com/prodhokter/dataset-perguruan-tinggi-indonesia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=dataset-perguruan-tinggi-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=ff6bcb&description_lines_count=2" width="100%" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/prodhokter/dataset-program-studi-indonesia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=dataset-program-studi-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=ff6bcb&description_lines_count=2" width="100%" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/prodhokter/anti-distract">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=anti-distract&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=ff6bcb&description_lines_count=2" width="100%" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<pre style="background:#0d1117;padding:16px 20px;line-height:1.5">
+<span style="color:#00d9ff;">api-datasets-indonesia</span>         <span style="color:#8b949e;">REST API publik — 5 dataset Indonesia, ~45MB in-memory, <10ms response</span>
+<span style="color:#00d9ff;">dataset-sekolah-indonesia</span>       <span style="color:#8b949e;">547.019 records — data sekolah se-Indonesia dari Dapodik Kemendikbud</span>
+<span style="color:#00d9ff;">dataset-wilayah-indonesia</span>       <span style="color:#8b949e;">88.297 records — provinsi, kab/kota, kecamatan, desa/kelurahan</span>
+<span style="color:#ff6bcb;">dataset-perguruan-tinggi-indonesia</span> <span style="color:#8b949e;">143 records — PTN, PTS, kedinasan + statistik kuota & peminat</span>
+<span style="color:#ff6bcb;">dataset-program-studi-indonesia</span>   <span style="color:#8b949e;">4.971 records — prodi + kuota, peminat, keketatan, passing grade SNPMB</span>
+<span style="color:#ff6bcb;">dataset-kbbi-indonesia</span>          <span style="color:#8b949e;">209.868 kata KBBI + 1.453 pasangan kata baku/tidak baku</span>
+<span style="color:#ff6bcb;">anti-distract</span>                  <span style="color:#8b949e;">Pomodoro timer + AI face detection + website blocking + virtual garden</span>
+</pre>
+
+<sub style="color:#8b949e;">Semua dataset tersedia via <a href="https://github.com/prodhokter/api-datasets-indonesia" style="color:#00d9ff;">REST API</a> dan file CSV langsung. API live di <a href="https://api.ibnuhabib.web.id" style="color:#00d9ff;">api.ibnuhabib.web.id</a></sub>
+
+</div>
+
+---
+
 <!-- ===== ACTIVITY GRAPH ===== -->
 
 ## `$ cat /var/log/activity.graph`
