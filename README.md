@@ -151,9 +151,11 @@ const ibnuhabib: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prodhokter&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6bcb&include_all_commits=true&custom_title=%E2%9A%A1%20GitHub%20Statistics" height="180em" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodhokter&layout=compact&hide_border=true&border_radius=12&bg_color=0d1117&title_color=ff6bcb&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prodhokter&theme=github_dark" height="165em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prodhokter&theme=github_dark" height="165em" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prodhokter&theme=github_dark&utcOffset=7" height="165em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prodhokter&theme=github_dark" height="165em" />
 
 </div>
 
