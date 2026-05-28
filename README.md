@@ -60,9 +60,9 @@ const ibnuhabib: Developer = {
   },
 
   focus: [
-    "Web ecosystem — TypeScript, Next.js, Node.js",
-    "Mobile cross-platform — Flutter & Dart",
-    "MLOps — pipelines & model deployment",
+    "Web ecosystem: TypeScript, Next.js, Node.js",
+    "Mobile cross-platform: Flutter & Dart",
+    "MLOps: pipelines & model deployment",
     "System design & scalable architecture",
   ],
 
@@ -171,14 +171,14 @@ const ibnuhabib: Developer = {
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  SKILL                     PROFICIENCY                  LEVEL                │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  TypeScript / Next.js      ████████████████████░░░░░░   85%     expert        │
-│  React / Tailwind CSS      ████████████████████░░░░░░   85%     expert        │
-│  Node.js / Express         ██████████████████░░░░░░░░   80%     advanced      │
-│  Flutter / Dart            ████████████████░░░░░░░░░░   75%     advanced      │
-│  PostgreSQL / Supabase     ████████████████░░░░░░░░░░   75%     advanced      │
-│  System Design             ██████████████░░░░░░░░░░░░   70%     advanced      │
-│  Docker / DevOps           ██████████████░░░░░░░░░░░░   65%     intermediate  │
-│  Python / ML               ████████████░░░░░░░░░░░░░░   55%     intermediate  │
+│  TypeScript / Next.js      ████████░░░░░░░░░░░░░░░░░░   38%     learning      │
+│  React / Tailwind CSS      ███████░░░░░░░░░░░░░░░░░░░   35%     learning      │
+│  Node.js / Express         ██████░░░░░░░░░░░░░░░░░░░░   32%     learning      │
+│  Flutter / Dart            ██████░░░░░░░░░░░░░░░░░░░░   30%     learning      │
+│  PostgreSQL / Supabase     █████░░░░░░░░░░░░░░░░░░░░░   25%     beginner      │
+│  System Design             ████░░░░░░░░░░░░░░░░░░░░░░   20%     beginner      │
+│  Docker / DevOps           ██░░░░░░░░░░░░░░░░░░░░░░░░   10%     beginner      │
+│  Python / ML               ██░░░░░░░░░░░░░░░░░░░░░░░░   10%     beginner      │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -192,74 +192,30 @@ const ibnuhabib: Developer = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<pre style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:20px 24px;line-height:1.7;text-align:left;overflow-x:auto">
+<span style="color:#8b949e;">total 7 repos</span>
+<span style="color:#8b949e;">drwxr-xr-x  prodhokter  opensource  &lt;datasets&gt;</span>
+
+<span style="color:#00d9ff;">├──</span> <a href="https://github.com/prodhokter/api-datasets-indonesia" style="color:#00d9ff;text-decoration:none;font-weight:bold;">api-datasets-indonesia</a>         <span style="color:#8b949e;">REST API publik: 5 dataset Indonesia, ~45MB in-memory, &lt;10ms response</span>
+<span style="color:#00d9ff;">├──</span> <a href="https://github.com/prodhokter/dataset-sekolah-indonesia" style="color:#00d9ff;text-decoration:none;font-weight:bold;">dataset-sekolah-indonesia</a>       <span style="color:#8b949e;">547.019 records: data sekolah se-Indonesia dari Dapodik Kemendikbud</span>
+<span style="color:#00d9ff;">├──</span> <a href="https://github.com/prodhokter/dataset-wilayah-indonesia" style="color:#00d9ff;text-decoration:none;font-weight:bold;">dataset-wilayah-indonesia</a>       <span style="color:#8b949e;">88.297 records: provinsi, kab/kota, kecamatan, desa/kelurahan</span>
+<span style="color:#ff6bcb;">├──</span> <a href="https://github.com/prodhokter/dataset-perguruan-tinggi-indonesia" style="color:#ff6bcb;text-decoration:none;font-weight:bold;">dataset-perguruan-tinggi</a>        <span style="color:#8b949e;">143 records: PTN, PTS, kedinasan + statistik kuota & peminat</span>
+<span style="color:#ff6bcb;">├──</span> <a href="https://github.com/prodhokter/dataset-program-studi-indonesia" style="color:#ff6bcb;text-decoration:none;font-weight:bold;">dataset-program-studi</a>           <span style="color:#8b949e;">4.971 records: prodi + kuota, peminat, keketatan, passing grade SNPMB</span>
+<span style="color:#ff6bcb;">├──</span> <a href="https://github.com/prodhokter/dataset-kbbi-indonesia" style="color:#ff6bcb;text-decoration:none;font-weight:bold;">dataset-kbbi-indonesia</a>          <span style="color:#8b949e;">209.868 kata KBBI + 1.453 pasangan kata baku/tidak baku</span>
+<span style="color:#ff6bcb;">└──</span> <a href="https://github.com/prodhokter/anti-distract" style="color:#ff6bcb;text-decoration:none;font-weight:bold;">anti-distract</a>                  <span style="color:#8b949e;">Pomodoro timer + AI face detection + website blocking + virtual garden</span>
+</pre>
 
 <br/>
 
-<a href="https://github.com/prodhokter/api-datasets-indonesia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=api-datasets-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=00d9ff&description_lines_count=2" width="100%" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/prodhokter/dataset-sekolah-indonesia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=dataset-sekolah-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=00d9ff&description_lines_count=2" width="100%" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/prodhokter/dataset-wilayah-indonesia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=dataset-wilayah-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=00d9ff&description_lines_count=2" width="100%" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/prodhokter/dataset-kbbi-indonesia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=dataset-kbbi-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=00d9ff&description_lines_count=2" width="100%" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-<a href="https://github.com/prodhokter/dataset-perguruan-tinggi-indonesia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=dataset-perguruan-tinggi-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=ff6bcb&description_lines_count=2" width="100%" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/prodhokter/dataset-program-studi-indonesia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=dataset-program-studi-indonesia&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=ff6bcb&description_lines_count=2" width="100%" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/prodhokter/anti-distract">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodhokter&repo=anti-distract&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=ff6bcb&description_lines_count=2" width="100%" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<pre style="background:#0d1117;padding:16px 20px;line-height:1.5">
-<span style="color:#00d9ff;">api-datasets-indonesia</span>         <span style="color:#8b949e;">REST API publik — 5 dataset Indonesia, ~45MB in-memory, <10ms response</span>
-<span style="color:#00d9ff;">dataset-sekolah-indonesia</span>       <span style="color:#8b949e;">547.019 records — data sekolah se-Indonesia dari Dapodik Kemendikbud</span>
-<span style="color:#00d9ff;">dataset-wilayah-indonesia</span>       <span style="color:#8b949e;">88.297 records — provinsi, kab/kota, kecamatan, desa/kelurahan</span>
-<span style="color:#ff6bcb;">dataset-perguruan-tinggi-indonesia</span> <span style="color:#8b949e;">143 records — PTN, PTS, kedinasan + statistik kuota & peminat</span>
-<span style="color:#ff6bcb;">dataset-program-studi-indonesia</span>   <span style="color:#8b949e;">4.971 records — prodi + kuota, peminat, keketatan, passing grade SNPMB</span>
-<span style="color:#ff6bcb;">dataset-kbbi-indonesia</span>          <span style="color:#8b949e;">209.868 kata KBBI + 1.453 pasangan kata baku/tidak baku</span>
-<span style="color:#ff6bcb;">anti-distract</span>                  <span style="color:#8b949e;">Pomodoro timer + AI face detection + website blocking + virtual garden</span>
+<pre style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:14px 24px;line-height:1.5">
+<span style="color:#8b949e;">$</span> <span style="color:#ffffff;">curl -s</span> <a href="https://api.ibnuhabib.web.id/api/stats" style="color:#00d9ff;">https://api.ibnuhabib.web.id/api/stats</a> <span style="color:#8b949e;">| jq .records</span>
+<span style="color:#3fb950;">{</span>
+<span style="color:#3fb950;">  "schools": 547019,</span>
+<span style="color:#3fb950;">  "universities": 143,</span>
+<span style="color:#3fb950;">  "majors": 4971,</span>
+<span style="color:#3fb950;">  "dictionary": 209868,</span>
+<span style="color:#3fb950;">  "villages": 80534</span>
+<span style="color:#3fb950;">}</span>
 </pre>
 
 <sub style="color:#8b949e;">Semua dataset tersedia via <a href="https://github.com/prodhokter/api-datasets-indonesia" style="color:#00d9ff;">REST API</a> dan file CSV langsung. API live di <a href="https://api.ibnuhabib.web.id" style="color:#00d9ff;">api.ibnuhabib.web.id</a></sub>
@@ -322,11 +278,11 @@ const ibnuhabib: Developer = {
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║      <span style="color:#00d9ff;">"First, solve the problem. Then, write the code."</span>          ║
-║                                              <span style="color:#8b949e;">— John Johnson</span>       ║
+║                                              <span style="color:#8b949e;">John Johnson</span>         ║
 ║                                                                  ║
 ║      <span style="color:#ff6bcb;">"Code is like humor. When you have to explain it,</span>            ║
 ║      <span style="color:#ff6bcb;"> it's bad."</span>                                                  ║
-║                                              <span style="color:#8b949e;">— Cory House</span>           ║
+║                                              <span style="color:#8b949e;">Cory House</span>             ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
